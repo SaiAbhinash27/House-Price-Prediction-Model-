@@ -46,11 +46,10 @@ The dataset consists of 17 variables:
 ### Dependent Variable (Target Variable)
 - **Price**: The price of the house.
 
-*Consider adding a table to summarize these features for clarity.*
-
 ## 3. Methodology
 ### Object-Oriented Programming Concepts
-![Logo](https://miro.medium.com/v2/resize:fit:640/format:webp/1*FIprfaDb37hRts9rPo-dXw.pngc)
+![Logo](https://miro.medium.com/v2/resize:fit:640/format:webp/1*FIprfaDb37hRts9rPo-dXw.png)
+
 The project employs Object-Oriented Programming (OOP) principles, which enhance code organization, reusability, and maintainability.
 
 - **Class**: A blueprint for creating objects. In this project, the `HOUSEPRICE` class encapsulates methods and properties related to house price prediction.
@@ -59,8 +58,6 @@ The project employs Object-Oriented Programming (OOP) principles, which enhance 
 - **Inheritance**: Allows new classes to inherit properties from existing classes, useful for extending functionality.
 - **Polymorphism**: Enables methods to use the same interface for different underlying data types.
 - **Abstraction**: Simplifies complex reality by exposing only necessary parts.
-
-*Visuals: A diagram illustrating OOP concepts can enhance understanding.*
 
 ## 4. Regression Techniques
 ### Multilinear Regression
@@ -72,7 +69,7 @@ A regularization technique that penalizes large coefficients to reduce overfitti
 ### Lasso Regression
 Another regularization technique that performs both variable selection and regularization (L1 regularization). It can shrink some coefficients to zero, effectively selecting a simpler model.
 
-*Visuals: Graphs comparing the performance of each regression technique can be useful.*
+![Logo](https://media.licdn.com/dms/image/v2/D4E12AQETUgdoL3lFWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1700656525507?e=1735171200&v=beta&t=fk2TnQtd4N6Og5usMVk0UR_8UnzhbsnQDqycqwhQJd4)
 
 ## 5. Implementation
 ### Code Overview
@@ -368,7 +365,6 @@ The project successfully demonstrates the development of a multilinear regressio
 
 ## 8. Future Work
 Potential improvements include:
-
 Implementing more advanced models like Decision Trees or Neural Networks.
 Hyperparameter tuning for Lasso and Ridge regression.
 Expanding the dataset with additional features.
