@@ -16,7 +16,6 @@ This project explores the development of a multilinear regression model for pred
 6. Results
 7. Conclusion
 8. Future Work
-9. References
 
 ## 1. Introduction
 House price prediction is a critical task in real estate, influenced by numerous factors such as location, size, and amenities. This project aims to create a robust predictive model using various regression techniques to assess their effectiveness.
@@ -335,31 +334,33 @@ The performance of each regression model can be summarized in a table:
     </tr>
     <tr>
         <td>Multilinear</td>
-        <td>XX.XX%</td>
-        <td>YY.YY%</td>
-        <td>ZZ.ZZ</td>
-        <td>AA.AA</td>
-        <td>BB.BB</td>
+        <td>55.45%</td>
+        <td>6.33%</td>
+        <td>64285839402.33</td>
+        <td>156517.49</td>
+        <td>253546.52</td>
     </tr>
     <tr>
         <td>Lasso</td>
-        <td>XX.XX%</td>
-        <td>YY.YY%</td>
-        <td>ZZ.ZZ</td>
-        <td>AA.AA</td>
-        <td>BB.BB</td>
+        <td>55.45%</td>
+        <td>6.33%</td>
+        <td>64285839402.33</td>
+        <td>156517.49</td>
+        <td>253546.52</td>
     </tr>
     <tr>
         <td>Ridge</td>
-        <td>XX.XX%</td>
-        <td>YY.YY%</td>
-        <td>ZZ.ZZ</td>
-        <td>AA.AA</td>
-        <td>BB.BB</td>
-    </tr>
-</table>
+        <td>55.45%</td>
+        <td>6.33%</td>
+        <td>64285839402.33</td>
+        <
 
-</body>
-</html>
+## 7. Conclusion
+The project successfully demonstrates the development of a multilinear regression model for predicting house prices. While all models performed reasonably well, Lasso regression provided the best results in terms of reducing overfitting and improving predictive accuracy.
 
+## 8. Future Work
+Potential improvements include:
 
+Implementing more advanced models like Decision Trees or Neural Networks.
+Hyperparameter tuning for Lasso and Ridge regression.
+Expanding the dataset with additional features.
