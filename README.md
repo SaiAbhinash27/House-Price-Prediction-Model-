@@ -352,10 +352,13 @@ The performance of each regression model can be summarized in a table:
         <td>55.45%</td>
         <td>6.33%</td>
         <td>64285839402.33</td>
-        <
+        <td>156517.49</td>
+        <td>253546.52</td>
+    </tr>
+</table>
 
-
-
+</body>
+</html>
 
 ## 7. Conclusion
 The project successfully demonstrates the development of a multilinear regression model for predicting house prices. While all models performed reasonably well, Lasso regression provided the best results in terms of reducing overfitting and improving predictive accuracy.
