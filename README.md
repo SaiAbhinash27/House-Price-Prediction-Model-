@@ -2,6 +2,7 @@
 
 ## Abstract
 This project explores the development of a multilinear regression model for predicting house prices using a dataset containing various features. The model's performance is evaluated using traditional linear regression, Lasso, and Ridge regression techniques to identify the most effective method.
+![App Screenshot](https://www.slideteam.net/house-price-prediction-through-machine-learning-ml-cd.html#images-1)
 
 ## Table of Contents
 1. Introduction
