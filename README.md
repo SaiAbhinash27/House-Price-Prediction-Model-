@@ -294,7 +294,6 @@ if __name__ == '__main__':
 - **Class Instantiation**: Creates an instance of the `HOUSEPRICE` class.
 - **Method Calls**: Sequentially calls methods for preprocessing the data, fitting the linear model, Lasso regression, and Ridge regression.
 - **Error Handling**: Captures any exceptions during execution and prints error details.
-
 ## 6. Results
 Performance Metrics
 The performance of each regression model can be summarized in a table:
@@ -354,6 +353,9 @@ The performance of each regression model can be summarized in a table:
         <td>6.33%</td>
         <td>64285839402.33</td>
         <
+
+
+
 
 ## 7. Conclusion
 The project successfully demonstrates the development of a multilinear regression model for predicting house prices. While all models performed reasonably well, Lasso regression provided the best results in terms of reducing overfitting and improving predictive accuracy.
