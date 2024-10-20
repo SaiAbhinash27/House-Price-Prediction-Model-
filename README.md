@@ -296,3 +296,70 @@ if __name__ == '__main__':
 - **Method Calls**: Sequentially calls methods for preprocessing the data, fitting the linear model, Lasso regression, and Ridge regression.
 - **Error Handling**: Captures any exceptions during execution and prints error details.
 
+## 6. Results
+Performance Metrics
+The performance of each regression model can be summarized in a table:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model Performance Metrics</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Model Performance Metrics</h2>
+
+<table>
+    <tr>
+        <th>Model Type</th>
+        <th>Training Accuracy</th>
+        <th>Test Accuracy</th>
+        <th>MSE</th>
+        <th>RMSE</th>
+        <th>MAE</th>
+    </tr>
+    <tr>
+        <td>Multilinear</td>
+        <td>XX.XX%</td>
+        <td>YY.YY%</td>
+        <td>ZZ.ZZ</td>
+        <td>AA.AA</td>
+        <td>BB.BB</td>
+    </tr>
+    <tr>
+        <td>Lasso</td>
+        <td>XX.XX%</td>
+        <td>YY.YY%</td>
+        <td>ZZ.ZZ</td>
+        <td>AA.AA</td>
+        <td>BB.BB</td>
+    </tr>
+    <tr>
+        <td>Ridge</td>
+        <td>XX.XX%</td>
+        <td>YY.YY%</td>
+        <td>ZZ.ZZ</td>
+        <td>AA.AA</td>
+        <td>BB.BB</td>
+    </tr>
+</table>
+
+</body>
+</html>
+
+
