@@ -50,6 +50,7 @@ The dataset consists of 17 variables:
 
 ## 3. Methodology
 ### Object-Oriented Programming Concepts
+![Logo](https://miro.medium.com/v2/resize:fit:640/format:webp/1*FIprfaDb37hRts9rPo-dXw.pngc)
 The project employs Object-Oriented Programming (OOP) principles, which enhance code organization, reusability, and maintainability.
 
 - **Class**: A blueprint for creating objects. In this project, the `HOUSEPRICE` class encapsulates methods and properties related to house price prediction.
